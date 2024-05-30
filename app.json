@@ -1,7 +1,7 @@
 {
-  "name": "Izumi-xd",
+  "name": "NOME XD",
   "description": "IZUMI-XD Multi Device whatsapp bot",
-  "logo": "https://i.imgur.com/Uc0uIkO.jpeg",
+  "logo": "https://i.imgur.com/8Gc5M54.jpeg",
   "keywords": ["whatsapp"],
   "repository": "https://github.com/sataniceypz/Izumi-v2",
   "website": "https://github.com/sataniceypz/Izumi-v2",
@@ -19,22 +19,22 @@
      "AUDIO_DATA": {
       "description": "audio data , title;artist;image url",
       "required": "false",
-      "value": "𝐄𝐘𝐏𝐙 ; 𝗜𝗭𝗨𝗠𝗜-𝗫𝗗 ; https://telegra.ph/file/c092ab6684953575dac78.jpg"
+      "value": "𝐄𝐘𝐏𝐙 ;🄽🄾🄼🄴-𝗫𝗗 ; https://telegra.ph/file/c092ab6684953575dac78.jpg"
      },
      "CAPTION": {
       "description": "enter your media caption",
       "required": "false",
-      "value": "𝗜𝗭𝗨𝗠𝗜-𝗫𝗗"
+      "value": "🄽🄾🄼🄴-𝗫𝗗"
     },
        "STICKER_DATA": {
-      "description": "Sticker pack name, eg : 𝗜𝗭𝗨𝗠𝗜 𝗫𝗗;𝐄𝐘𝐏𝐙",
+      "description": "Sticker pack name, eg :𝐍0𝐌𝐄 𝗫𝗗;𝐄𝐘𝐏𝐙",
       "required": "false",
-      "value": "𝗜𝗭𝗨𝗠𝗜 𝗫𝗗;𝐄𝐘𝐏𝐙"
+      "value": "🄽🄾🄼🄴 𝗫𝗗;𝐄𝐘𝐏𝐙"
     },
        "BOT_INFO": {
       "description": "Bot info : botname;ownername;imageurl - image or video",
       "required": "false",
-      "value": "𝗜𝗭𝗨𝗠𝗜 𝗫𝗗;𝐄𝐘𝐏𝐙;https://telegra.ph/file/c092ab6684953575dac78.jpg"
+      "value": "🄽🄾🄼🅂 𝗫𝗗;𝐄𝐘𝐏𝐙;https://telegra.ph/file/c092ab6684953575dac78.jpg"
     },
      "ALWAYS_ONLINE": {
       "description": "Bot online online : true",
